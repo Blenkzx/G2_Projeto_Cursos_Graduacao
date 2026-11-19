@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue) ![License: MIT](https://img.shields.io/badge/code-MIT-green) ![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey) ![FAIR](https://img.shields.io/badge/FAIR-compliant-orange)
 
-**Artigo (GitHub Pages):** [https://blenkzx.github.io/cursos-graduacao-capitais/](https://blenkzx.github.io/G2_Projeto_Cursos_Graduacao/)
+**Artigo (GitHub Pages):** https://blenkzx.github.io/G2_Projeto_Cursos_Graduacao/
 
 | | |
 |---|---|
